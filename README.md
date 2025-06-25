@@ -52,10 +52,10 @@ Bộ phận: Nhân viên
 | Công việc                  | Loại công việc             | Ghi chú                                                   |
 |----------------------------|----------------------------|-----------------------------------------------------------|
 | Đăng nhập                  | Tra cứu                    |                                                           |
-| Xem trạng thái đơn hàng    | Tra cứu                    |                                                           |
-| Chỉnh sửa món ăn           | Lưu trữ                    |                                                           |
-| Xem danh sách đơn hàng     | Tra cứu                    |                                                           |
-| Quản lý đơn hàng           | Lưu trữ                    |                                                           |
+| Xem trạng thái đơn hàng    | Tra cứu                    | Xem tiến trình: đang xử lý, đang giao, hoàn tất           |
+| Chỉnh sửa món ăn           | Lưu trữ                    | Thay đổi món ăn: hiển thị hết món, thay đổi mô tả món ăn  |
+| Xem danh sách đơn hàng     | Tra cứu                    | Xem tổng các đơn hàng để tiến hành giao hàng              |
+| Quản lý đơn hàng           | Lưu trữ                    | Cập nhật trạng thái đơn hàng                              |
 
 Bộ phận: Khách hàng
 | Công việc                         | Loại công việc              | Ghi chú                                            |
