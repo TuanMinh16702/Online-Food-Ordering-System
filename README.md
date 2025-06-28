@@ -67,3 +67,10 @@ Bộ phận: Khách hàng
 | Đánh giá sản phẩm                 | Lưu trữ                     | Người dùng có thể thêm/sửa đánh giá                |
 | Theo dõi trạng thái đơn hàng      | Tra cứu                     | Xem tiến trình: đang xử lý, đang giao, hoàn tất    |
 
+
+# **III. Use Case**
+<h2>3.1 Use case tổng quát:</h2>
+![image](https://github.com/user-attachments/assets/c0cff68b-554d-426b-b522-456545f8a909)
+
+<h2>3.1.1 Chủ cửa hàng:</h2>
+
