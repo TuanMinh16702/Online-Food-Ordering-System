@@ -70,6 +70,7 @@ Bộ phận: Khách hàng
 
 # **III. Use Case**
 <h2>3.1 Use case tổng quát:</h2>
+
 ![image](https://github.com/user-attachments/assets/c0cff68b-554d-426b-b522-456545f8a909)
 
 <h2>3.1.1 Chủ cửa hàng:</h2>
